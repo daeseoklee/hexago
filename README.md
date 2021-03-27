@@ -1,4 +1,3 @@
 # hexago
-go game played on a hexagonal board
-
-execute '__play.py' to play!
+The go game played on the hexagonal board.
+Install pygame and run '__play.py' to play!
